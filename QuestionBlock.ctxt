@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=QuestionBlock(int,\ int)
+comment0.text=\n\ Creates\ a\ block\ at\ the\ given\ glock\ coordinates\n
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=
+comment2.target=void\ getHitFromBelow()
+numComments=3

@@ -1,0 +1,12 @@
+                c          c s sc                                                                                       
+         c  cc  c          cccccc                                                                                       
+         c  cc  c  cccc cccc          p                                                                                 
+         c  cc  c  c          c       ||                        ccCCCCCCCCCCCCCCCC||                       cc           
+         c  cc  c  c       c  c       ||                        cc                ||                      ccc           
+         c  cc  c  c       c  c       ||                        cc                ||                     cccc           
+    313  c  cc  c  c       c  c       ||                        cc                cc                    ccccc           
+         c  cc  c  c       c  c       ||                        cc                                     cccccc           
+            cc     c       c  c       ||      p  p  p  p  p     cc                      pT        pT  ccccccc           
+            cc  c  c       c  c       ||      || || || || ||         c                  ||        || cccccccc        F  
+d           cc  c  c  g  g c  c       ||      || || || || ||         c   T   T  T       ||        ||ccccccccc        c  
+dddddddddddddd  d  ddddddddd  dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd        dddddddddddddddddddddd

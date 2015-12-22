@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mario()
+comment1.params=
+comment1.target=void\ jump()
+comment2.params=
+comment2.target=void\ die()
+comment3.params=
+comment3.target=void\ tick()
+comment4.params=arr
+comment4.target=void\ tick(boolean[])
+comment5.params=
+comment5.target=void\ checkForEnemyIntersections()
+comment6.params=
+comment6.target=void\ getHit()
+comment7.params=c
+comment7.target=void\ collect(Collectable)
+comment8.params=
+comment8.target=java.lang.String\ graphicsString()
+numComments=9

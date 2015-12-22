@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Enemy_Spawner(int,\ int)
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=
+comment2.target=Enemy\ enemyToShoot()
+comment3.params=e
+comment3.target=void\ addEnemyToGame(Enemy)
+numComments=4

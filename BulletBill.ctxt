@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ movingRight
+comment0.target=BulletBill(int,\ int,\ boolean)
+comment1.params=
+comment1.target=void\ getSteppedOn()
+comment2.params=
+comment2.target=void\ die()
+numComments=3

@@ -1,0 +1,6 @@
+#width
+120
+#height
+13
+#color
+blue

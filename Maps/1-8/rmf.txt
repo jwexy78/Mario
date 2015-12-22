@@ -1,0 +1,12 @@
+                c          c s sc                                                                                       
+         c  cc  c          cccccc                                                                                       
+         c  cc  c  cccc cccc                                                                                            
+         c  cc  c  c          c                                                                                         
+         c  cc  c  c       c  c                                                                                         
+         c  cc  c  c       c  c                                                                                         
+    313  c  cc  c  c       c  c                                                                                         
+         c  cc  c  c       c  c                                                                                         
+            cc     c       c  c                                                                                         
+            cc  c  c       c  c                                                                                      F  
+d           cc  c  c  g  g c  c                                                                                      c  
+dddddddddddddd  d  ddddddddd  dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd

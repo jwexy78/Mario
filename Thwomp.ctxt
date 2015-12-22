@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Thwomp(int,\ int)
+comment1.params=
+comment1.target=void\ tickGraphics()
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=void\ getSteppedOn()
+comment4.params=
+comment4.target=void\ die()
+numComments=5

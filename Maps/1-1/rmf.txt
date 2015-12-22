@@ -1,0 +1,12 @@
+                                                                                                               ==       
+          ====          ===                                                 ====                    ===                 
+   ===                        ===                ===         ====    ==                    ===                          
+                  0                      ===                                         ==                   cc            
+                                                                        1                                ccc            
+                                                                                                        cccc            
+                                                                                                       ccccc            
+         bb     b0b0b          $$$   ||        ||                 bb  0   0        b0bb               cccccc            
+                                     ||        ||         c  c                 p                     ccccccc            
+                           ||        ||        ||        cc  cc                ||        ||         cccccccc        F   
+       """"           g""" ||  g """g|| g   g  ||   """ ccc  ccc     T""""  g g||g  g    ||      g"ccccccccc"""     c   
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd  ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd

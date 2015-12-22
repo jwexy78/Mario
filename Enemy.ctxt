@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Enemy(int,\ int)
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=
+comment2.target=void\ tickPhysics()
+comment3.params=
+comment3.target=void\ getSteppedOn()
+comment4.params=
+comment4.target=void\ die()
+comment5.params=
+comment5.target=void\ tickGraphics()
+comment6.params=
+comment6.target=Enemy\ checkEnemyIntersections()
+comment7.params=e
+comment7.target=void\ contact(Enemy)
+comment8.params=
+comment8.target=void\ tickDeadAnimation()
+comment9.params=
+comment9.target=java.lang.String\ graphicsString()
+numComments=10
